@@ -6,7 +6,8 @@ using namespace std;
 
 int main(){
     
-    string str = "-1 2 3 -1 -2";
+    string str;
+    getline(cin, str);
     vector <int> arr;
     istringstream iss(str);
     int number;
