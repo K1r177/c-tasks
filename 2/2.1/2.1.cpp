@@ -3,10 +3,10 @@ using namespace std;
 
 class Ttraffic_light
 {
-   /*  public:
+    public:
         string color;
         Ttraffic_light();
-        void printColor(); */
+        void printColor();
 
 };
 
